@@ -1,0 +1,1 @@
+Algorithm Manipulations from CodeSignal
